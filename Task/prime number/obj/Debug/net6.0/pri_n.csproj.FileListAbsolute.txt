@@ -1,0 +1,30 @@
+C:\Users\Abdo\source\repos\pri_n\bin\Debug\net6.0\pri_n.exe
+C:\Users\Abdo\source\repos\pri_n\bin\Debug\net6.0\pri_n.deps.json
+C:\Users\Abdo\source\repos\pri_n\bin\Debug\net6.0\pri_n.runtimeconfig.json
+C:\Users\Abdo\source\repos\pri_n\bin\Debug\net6.0\pri_n.dll
+C:\Users\Abdo\source\repos\pri_n\bin\Debug\net6.0\pri_n.pdb
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.csproj.AssemblyReference.cache
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.AssemblyInfoInputs.cache
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.AssemblyInfo.cs
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.dll
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\refint\pri_n.dll
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.pdb
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\pri_n.genruntimeconfig.cache
+C:\Users\Abdo\source\repos\pri_n\obj\Debug\net6.0\ref\pri_n.dll
+D:\Task\prime number\bin\Debug\net6.0\pri_n.exe
+D:\Task\prime number\bin\Debug\net6.0\pri_n.deps.json
+D:\Task\prime number\bin\Debug\net6.0\pri_n.runtimeconfig.json
+D:\Task\prime number\bin\Debug\net6.0\pri_n.dll
+D:\Task\prime number\bin\Debug\net6.0\pri_n.pdb
+D:\Task\prime number\obj\Debug\net6.0\pri_n.csproj.AssemblyReference.cache
+D:\Task\prime number\obj\Debug\net6.0\pri_n.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\prime number\obj\Debug\net6.0\pri_n.AssemblyInfoInputs.cache
+D:\Task\prime number\obj\Debug\net6.0\pri_n.AssemblyInfo.cs
+D:\Task\prime number\obj\Debug\net6.0\pri_n.csproj.CoreCompileInputs.cache
+D:\Task\prime number\obj\Debug\net6.0\pri_n.dll
+D:\Task\prime number\obj\Debug\net6.0\refint\pri_n.dll
+D:\Task\prime number\obj\Debug\net6.0\pri_n.pdb
+D:\Task\prime number\obj\Debug\net6.0\pri_n.genruntimeconfig.cache
+D:\Task\prime number\obj\Debug\net6.0\ref\pri_n.dll
